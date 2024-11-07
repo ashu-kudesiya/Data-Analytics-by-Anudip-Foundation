@@ -2,26 +2,30 @@
 
 This project analyzes business data using Power BI, providing visual insights into account distributions, profitability margins, and market values by country and industry. The analysis is divided into two main parts, with each part demonstrating various Power BI features and data visualization techniques.
 
+
 ## Table of Contents
 - [Overview](#overview)
 - [Data Requirements](#data-requirements)
 - [Steps for Analysis](#steps-for-analysis)
 - [Visualizations](#visualizations)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Contact Information](#contact-information)
 
+
 ---
+
 
 ## Overview
 
 This project showcases how to import, transform, and visualize business data in Power BI. Using data from an Excel workbook, various visualizations are created to represent account distributions by country, industry profitability, and more. The **Business Data.pbix** file contains all completed tasks based on data sourced from **Business Data.xlsx**.
+
 
 ## Data Requirements
 
 Ensure that you have the following files:
 1. **Business Data.xlsx** - Contains sheets with account information, industries, and profitability metrics.
 2. **Business Data.pbix** - Power BI file where all tasks are performed, including data transformations and visualizations.
+
 
 ## Steps for Analysis
 
@@ -47,6 +51,7 @@ Ensure that you have the following files:
    - Map industry market values and presence by country with a map chart.
 3. **Save & Document**: Save the Power BI file and take screenshots of each visualization.
 
+
 ## Visualizations
 
 Each part includes specific visualizations to aid analysis:
@@ -56,9 +61,6 @@ Each part includes specific visualizations to aid analysis:
 - **Line & Stacked Column Charts**: Trend visualization for industry profitability.
 - **Map Charts**: Geographic representation of market values and industry presence.
 
-## Screenshots
-
-After completing each visualization, take screenshots and save them for documentation purposes. Screenshots are necessary for the final report and showcase the results of each analysis step.
 
 ## Getting Started
 
@@ -70,9 +72,5 @@ After completing each visualization, take screenshots and save them for document
 
 For any questions, please feel free to reach out:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/himanshu-kudesiya)
-- Email: himanshu.kudesiya@gmail.com
-
-## License
-
-This project is for educational purposes only.
+- LinkedIn Profile](https://www.linkedin.com/in/himanshu-kudesiya)
+- [Email](himanshu.kudesiya@gmail.com)
