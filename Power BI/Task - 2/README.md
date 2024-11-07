@@ -4,7 +4,7 @@ This project provides insights into business data using Power BI, focusing on ac
 
 ## Table of Contents
 - [Overview](#overview)
-- [Data Requirements](#requirements)
+- [Requirements](#requirements)
 - [Steps for Analysis](#steps-for-analysis)
 - [Visualizations](#visualizations)
 - [Screenshots](#screenshots)
