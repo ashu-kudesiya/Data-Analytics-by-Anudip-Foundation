@@ -5,9 +5,10 @@ This project analyzes business data using Power BI, providing visual insights in
 
 ## Table of Contents
 - [Overview](#overview)
-- [Data Requirements](#data-requirements)
+- [Requirements](#requirements)
 - [Steps for Analysis](#steps-for-analysis)
 - [Visualizations](#visualizations)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Contact Information](#contact-information)
 
@@ -20,7 +21,7 @@ This project analyzes business data using Power BI, providing visual insights in
 This project showcases how to import, transform, and visualize business data in Power BI. Using data from an Excel workbook, various visualizations are created to represent account distributions by country, industry profitability, and more. The **Business Data.pbix** file contains all completed tasks based on data sourced from **Business Data.xlsx**.
 
 
-## Data Requirements
+## Requirements
 
 Ensure that you have the following files:
 1. **Business Data.xlsx** - Contains sheets with account information, industries, and profitability metrics.
@@ -60,6 +61,13 @@ Each part includes specific visualizations to aid analysis:
 - **Pie Charts**: Show profitability by industry.
 - **Line & Stacked Column Charts**: Trend visualization for industry profitability.
 - **Map Charts**: Geographic representation of market values and industry presence.
+
+
+## Screenshots
+![](https://github.com/ashu-kudesiya/Data-Analytics-by-Anudip-Foundation/blob/main/Power%20BI/Task%20-%201/Screenshot/1.png?raw=true)
+ ###
+ 
+![](https://github.com/ashu-kudesiya/Data-Analytics-by-Anudip-Foundation/blob/main/Power%20BI/Task%20-%201/Screenshot/2.png?raw=true)
 
 
 ## Getting Started
