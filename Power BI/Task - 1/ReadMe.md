@@ -72,5 +72,5 @@ Each part includes specific visualizations to aid analysis:
 
 For any questions, please feel free to reach out:
 
-- LinkedIn Profile](https://www.linkedin.com/in/himanshu-kudesiya)
+- [LinkedIn Profile](https://www.linkedin.com/in/himanshu-kudesiya)
 - [Email](himanshu.kudesiya@gmail.com)
