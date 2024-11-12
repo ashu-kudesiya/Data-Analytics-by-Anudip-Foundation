@@ -60,7 +60,8 @@ The **EU Superstore Sales Dashboard** provides key insights into sales performan
 
 ## Screenshots
 
-![Dashboard Screenshot](./image.png)
+![Dashboard Screenshot](https://github.com/ashu-kudesiya/Data-Analytics-by-Anudip-Foundation/blob/main/Power%20BI/Task%20-%203/Screenshot/1.png?raw=true)
+
 
 ## Getting Started
 
