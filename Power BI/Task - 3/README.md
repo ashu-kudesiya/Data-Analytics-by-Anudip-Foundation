@@ -1,5 +1,7 @@
 # EU Superstore Sales Dashboard Project
 
+12345
+
 This project provides an interactive Power BI dashboard for analyzing sales performance and customer insights for a fictional EU Superstore. The dashboard visualizes metrics such as sales distribution by category, ship mode, geographic location, and time, enabling data-driven decisions to improve business strategy.
 
 ## Table of Contents
