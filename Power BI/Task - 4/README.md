@@ -34,9 +34,12 @@ The **Sales Data Analytics Dashboard** delivers insights into sales trends, prof
    - Bar chart for observing monthly sales fluctuations.
 
 ## Requirements
+- **Power BI Desktop**: Version 2.0 or higher for opening the `.pbix` file
+- **Microsoft Excel**: For accessing the source data file
+- **Files**:
+  - **`Task - 4.pbix`**: Power BI file containing the dashboard
+  - **`Project Sales Data.xlsx`**: Excel file with the source data for analysis
 
-- **Power BI Desktop**: Required for opening **Task - 4.pbix**
-- **Microsoft Excel**: Required for accessing `Project Sales Data.xlsx`
 
 ## Steps for Analysis
 
