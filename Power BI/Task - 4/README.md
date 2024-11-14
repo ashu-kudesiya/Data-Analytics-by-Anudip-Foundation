@@ -1,5 +1,4 @@
 # Sales Data Analytics Dashboard Project
-1
 
 This project includes an interactive Power BI dashboard developed in **Task - 4.pbix**, which analyzes sales performance and provides business insights. The dashboard offers a visual breakdown of key sales metrics, enabling informed decision-making to enhance profitability and efficiency.
 
