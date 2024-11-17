@@ -1,6 +1,6 @@
 # Data Analytics Project by Anudip Foundation  
  <img src="https://anudip.org/wp-content/uploads/2024/04/Anudip-transparent-Logo-1024x453.png.webp" width="200" height="100"/>
-123
+12
 
 ## Project Overview
 This project is a comprehensive exploration of data analytics, developed as part of the Data Analytics course by **Anudip Foundation**. It covers various analytical methods, data processing techniques, visualization, and statistical analysis aimed at transforming raw data into actionable insights. The project provides a foundation for making data-driven decisions and solving real-world problems.
